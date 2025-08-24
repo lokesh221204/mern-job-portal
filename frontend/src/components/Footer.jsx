@@ -36,7 +36,7 @@ const Footer = () => {
           <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
             © 2025
             <a href="#" className="hover:underline">
-              Code Bless Me
+              Sai Lokesh
             </a>
             . All Rights Reserved.
           </span>
